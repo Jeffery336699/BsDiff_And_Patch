@@ -16,7 +16,7 @@ public class ApkExtract {
         context = context.getApplicationContext();
         ApplicationInfo applicationInfo = context.getApplicationInfo();
         String apkPath = applicationInfo.sourceDir;
-        Log.e("hongyang", apkPath);
+        Log.e("hongyang", "extract: "+apkPath);
         return apkPath;
     }
 

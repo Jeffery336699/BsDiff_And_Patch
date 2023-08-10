@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BsDiff_And_Patch.iml" filepath="$PROJECT_DIR$/BsDiff_And_Patch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BsDiff_And_Patch.iml" filepath="$PROJECT_DIR$/.idea/modules/BsDiff_And_Patch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BsDiff_And_Patch.app.unitTest.iml" />
     </modules>
   </component>
 </project>
