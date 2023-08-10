@@ -22,6 +22,15 @@ import com.zhy.utils.BsPatch;
 
 import java.io.File;
 
+/**
+ * diff 参考: https://blog.csdn.net/lmj623565791/article/details/52761658?spm=1001.2014.3001.5502
+ * diff windows 工具参考: https://github.com/welcome112s/bsdiff
+ * 命令: 就两个
+ * bsdiff old.apk new.apk old-to-new.patch
+ * bspatch old.apk new2.apk old-to-new.patch
+ *
+ * 7.0、8.0适配安装应用: https://juejin.cn/post/6973097798434570254
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button mBtnPatch;
